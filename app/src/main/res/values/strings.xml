@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">todolist</string>
+    <string name="app_name">To Do List</string>
+    <string name="title_todolist">To Do List</string>
+    <string name="btn_new_task">+ New Task</string>
+    <string name="content_description">Content Description</string>
+    <string name="task_description">This note still process</string>
+    <string name="category_name">Category</string>
 </resources>
