@@ -5,4 +5,9 @@
     <string name="content_description">Content Description</string>
     <string name="task_description">This note still process</string>
     <string name="category_name">Category</string>
+    <string name="search_task">Search task .... </string>
+    <string name="task_detail">Task Detail</string>
+    <string name="task_title">Task Title</string>
+    <string name="category">Category</string>
+    <string name="add_category">Add Category</string>
 </resources>
